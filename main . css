@@ -1,0 +1,2 @@
+@import  "texts.scss";
+@import "styles.scss";
